@@ -1,2 +1,3 @@
 # Customer-Analysis
-Customer Segmantion
+Customer price modeling
+
